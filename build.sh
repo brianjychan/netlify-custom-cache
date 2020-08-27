@@ -1,4 +1,4 @@
-# Example file structure at root
+# Example file structure at source root
 # .
 # ├── blog (Jekyll blog)
 # ├── build.sh (build script)
