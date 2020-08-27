@@ -1,2 +1,6 @@
+[build]
+  command = "./build.sh"
+  publish = "public"
+
 [[plugins]]
 package = "/plugins/custom-cache"
